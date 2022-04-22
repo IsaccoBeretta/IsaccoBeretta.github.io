@@ -1,6 +1,6 @@
 title: Isacco Beretta
 url: "https://isaccoberetta.github.io"
-baseurl: "https://isaccoberetta.github.io"
+baseurl: "/#"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
