@@ -3,19 +3,15 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [isacco.beretta@phd.unipi.it](mailto:isacco.beretta@phd.unipi.it)
 
 ---
 
-## Mailing Address
+## Based at 
 
-> 221B, Largo Bruno Pontecorvo
+> Pisa 
 >
-> London
->
-> United Kingdom
+> Italy
 
 ---
 
