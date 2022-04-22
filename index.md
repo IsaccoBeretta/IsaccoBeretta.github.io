@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a Phd Student in *Artificial Intelligence and Society* at Department of Computer Science - Università di Pisa.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+
 
 ## Research Interest
 
