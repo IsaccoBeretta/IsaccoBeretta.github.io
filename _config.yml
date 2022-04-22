@@ -1,6 +1,6 @@
 title: Researcher
-url: "https://isaccoberetta.github.io/"
-baseurl: "/researcher"
+url: "https://isaccoberetta.github.io"
+baseurl: "https://isaccoberetta.github.io"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
