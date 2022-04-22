@@ -1,6 +1,6 @@
 title: Isacco Beretta
 url: "https://isaccoberetta.github.io"
-baseurl: "/Isacco Beretta/"
+baseurl: "https://isaccoberetta.github.io"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/Isacco Beretta/"
+   link: "https://isaccoberetta.github.io"
  - name: "CV"
    link: "CVeng.pdf"
  - name: "Contact"
